@@ -6,7 +6,7 @@
 
 ### Requisitos  
 Primeiro é preciso ter o [xampp](https://www.apachefriends.org/download.html) instalado e configurado, ter o php instalado e fazer o git clone na pasta htdocs/,
-iniciar o xampp e acessar o localhost.
+iniciar o xampp e acessar o localhost, e ter um banco de dados adicionados no arquivo conf.php
 
 ```bash
 # Para clonar o repositorio
